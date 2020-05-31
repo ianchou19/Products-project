@@ -1,0 +1,6 @@
+coverage:
+  status:
+    project:
+      default:
+        target: 95%  # we always want 100% coverage here
+    patch: off
