@@ -21,7 +21,7 @@ pylint>=2.4.1
 behave==1.2.6
 selenium==3.141.0
 compare==0.2b0
-requests==2.22.0
+requests==2.31.0
 
 # Code coverage
 coverage==4.5.4
